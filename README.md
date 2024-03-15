@@ -42,6 +42,17 @@ mongod
 sudo service mongod start
 ```
 
+### Seting Up Database Connection
+
+#### Local Database Url String
+```bash
+mongodb://localhost:27017/
+```
+#### Choosing & Specifying Database
+```bash
+mydb
+```
+
 ## 4. Execute Objective A
 
 To execute Objective A, run the following command:
